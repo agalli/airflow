@@ -1,0 +1,105 @@
+[2021-12-10 16:23:24,007] {scheduler_job.py:182} INFO - Started process (PID=1662) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:23:24,008] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:23:24,010] {logging_mixin.py:104} INFO - [2021-12-10 16:23:24,010] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:23:24,044] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:23:24,627] {logging_mixin.py:104} INFO - [2021-12-10 16:23:24,626] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:23:24,647] {logging_mixin.py:104} INFO - [2021-12-10 16:23:24,647] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:23:24,708] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.707 seconds
+[2021-12-10 16:24:22,628] {scheduler_job.py:182} INFO - Started process (PID=1697) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:24:22,631] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:24:22,643] {logging_mixin.py:104} INFO - [2021-12-10 16:24:22,643] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:24:22,705] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:24:22,763] {logging_mixin.py:104} INFO - [2021-12-10 16:24:22,763] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:24:22,846] {logging_mixin.py:104} INFO - [2021-12-10 16:24:22,845] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:24:23,019] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.398 seconds
+[2021-12-10 16:25:18,601] {scheduler_job.py:182} INFO - Started process (PID=1732) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:25:18,605] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:25:18,606] {logging_mixin.py:104} INFO - [2021-12-10 16:25:18,606] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:25:18,677] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:25:18,724] {logging_mixin.py:104} INFO - [2021-12-10 16:25:18,724] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:25:18,767] {logging_mixin.py:104} INFO - [2021-12-10 16:25:18,767] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:25:18,838] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.244 seconds
+[2021-12-10 16:26:08,036] {scheduler_job.py:182} INFO - Started process (PID=1947) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:26:08,046] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:26:08,050] {logging_mixin.py:104} INFO - [2021-12-10 16:26:08,050] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:26:08,171] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:26:08,262] {logging_mixin.py:104} INFO - [2021-12-10 16:26:08,262] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:26:08,333] {logging_mixin.py:104} INFO - [2021-12-10 16:26:08,333] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:26:08,822] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.796 seconds
+[2021-12-10 16:26:57,695] {scheduler_job.py:182} INFO - Started process (PID=2160) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:26:57,698] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:26:57,703] {logging_mixin.py:104} INFO - [2021-12-10 16:26:57,703] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:26:57,789] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:26:57,854] {logging_mixin.py:104} INFO - [2021-12-10 16:26:57,854] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:26:57,908] {logging_mixin.py:104} INFO - [2021-12-10 16:26:57,908] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:26:58,100] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.424 seconds
+[2021-12-10 16:27:52,922] {scheduler_job.py:182} INFO - Started process (PID=2293) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:27:52,925] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:27:52,926] {logging_mixin.py:104} INFO - [2021-12-10 16:27:52,926] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:27:52,970] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:27:53,020] {logging_mixin.py:104} INFO - [2021-12-10 16:27:53,019] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:27:53,073] {logging_mixin.py:104} INFO - [2021-12-10 16:27:53,073] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:27:53,154] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.238 seconds
+[2021-12-10 16:29:01,203] {scheduler_job.py:182} INFO - Started process (PID=2625) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:29:01,211] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:29:01,214] {logging_mixin.py:104} INFO - [2021-12-10 16:29:01,214] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:29:01,259] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:29:01,340] {logging_mixin.py:104} INFO - [2021-12-10 16:29:01,339] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:29:01,480] {logging_mixin.py:104} INFO - [2021-12-10 16:29:01,480] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:29:01,604] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.418 seconds
+[2021-12-10 16:29:51,875] {scheduler_job.py:182} INFO - Started process (PID=2659) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:29:51,878] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:29:51,880] {logging_mixin.py:104} INFO - [2021-12-10 16:29:51,879] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:29:51,945] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:29:52,042] {logging_mixin.py:104} INFO - [2021-12-10 16:29:52,042] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:29:52,130] {logging_mixin.py:104} INFO - [2021-12-10 16:29:52,130] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:29:52,206] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.339 seconds
+[2021-12-10 16:30:37,752] {scheduler_job.py:182} INFO - Started process (PID=2698) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:30:37,753] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:30:37,755] {logging_mixin.py:104} INFO - [2021-12-10 16:30:37,754] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:30:37,786] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:30:37,835] {logging_mixin.py:104} INFO - [2021-12-10 16:30:37,835] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:30:37,875] {logging_mixin.py:104} INFO - [2021-12-10 16:30:37,875] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:30:37,941] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.192 seconds
+[2021-12-10 16:31:27,585] {scheduler_job.py:182} INFO - Started process (PID=2994) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:31:27,588] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:31:27,590] {logging_mixin.py:104} INFO - [2021-12-10 16:31:27,590] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:31:27,625] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:31:27,662] {logging_mixin.py:104} INFO - [2021-12-10 16:31:27,662] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:31:27,699] {logging_mixin.py:104} INFO - [2021-12-10 16:31:27,698] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:31:27,748] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.169 seconds
+[2021-12-10 16:32:17,466] {scheduler_job.py:182} INFO - Started process (PID=3029) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:32:17,470] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:32:17,483] {logging_mixin.py:104} INFO - [2021-12-10 16:32:17,482] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:32:17,565] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:32:17,791] {logging_mixin.py:104} INFO - [2021-12-10 16:32:17,791] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:32:17,834] {logging_mixin.py:104} INFO - [2021-12-10 16:32:17,833] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:32:17,878] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.441 seconds
+[2021-12-10 16:33:39,322] {scheduler_job.py:182} INFO - Started process (PID=3681) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:33:39,328] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:33:39,329] {logging_mixin.py:104} INFO - [2021-12-10 16:33:39,329] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:33:39,364] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:33:39,406] {logging_mixin.py:104} INFO - [2021-12-10 16:33:39,406] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:33:39,538] {logging_mixin.py:104} INFO - [2021-12-10 16:33:39,537] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:33:39,608] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.290 seconds
+[2021-12-10 16:34:35,083] {scheduler_job.py:182} INFO - Started process (PID=3805) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:34:35,090] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:34:35,094] {logging_mixin.py:104} INFO - [2021-12-10 16:34:35,094] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:34:35,149] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:34:35,185] {logging_mixin.py:104} INFO - [2021-12-10 16:34:35,185] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:34:35,219] {logging_mixin.py:104} INFO - [2021-12-10 16:34:35,219] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:34:35,244] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.166 seconds
+[2021-12-10 16:35:12,945] {scheduler_job.py:182} INFO - Started process (PID=3840) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:35:12,955] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:35:12,958] {logging_mixin.py:104} INFO - [2021-12-10 16:35:12,958] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:35:13,038] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:35:13,087] {logging_mixin.py:104} INFO - [2021-12-10 16:35:13,087] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:35:13,124] {logging_mixin.py:104} INFO - [2021-12-10 16:35:13,123] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:35:13,160] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.225 seconds
+[2021-12-10 16:36:00,756] {scheduler_job.py:182} INFO - Started process (PID=3873) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:36:00,761] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-12-10 16:36:00,763] {logging_mixin.py:104} INFO - [2021-12-10 16:36:00,763] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:36:00,949] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-12-10 16:36:00,995] {logging_mixin.py:104} INFO - [2021-12-10 16:36:00,994] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:36:01,033] {logging_mixin.py:104} INFO - [2021-12-10 16:36:01,032] {dag.py:2305} INFO - Setting next_dagrun for example_task_group to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:36:01,284] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.535 seconds

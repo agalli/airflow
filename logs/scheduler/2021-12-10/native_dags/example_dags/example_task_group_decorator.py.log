@@ -1,0 +1,112 @@
+[2021-12-10 16:23:15,496] {scheduler_job.py:182} INFO - Started process (PID=1628) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:23:15,497] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:23:15,498] {logging_mixin.py:104} INFO - [2021-12-10 16:23:15,498] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:23:15,526] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:23:15,965] {logging_mixin.py:104} INFO - [2021-12-10 16:23:15,965] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:23:15,985] {logging_mixin.py:104} INFO - [2021-12-10 16:23:15,985] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:23:16,022] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.530 seconds
+[2021-12-10 16:24:16,892] {scheduler_job.py:182} INFO - Started process (PID=1693) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:24:16,895] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:24:16,898] {logging_mixin.py:104} INFO - [2021-12-10 16:24:16,897] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:24:17,057] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:24:17,852] {logging_mixin.py:104} INFO - [2021-12-10 16:24:17,852] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:24:17,879] {logging_mixin.py:104} INFO - [2021-12-10 16:24:17,879] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:24:17,953] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 1.079 seconds
+[2021-12-10 16:25:12,305] {scheduler_job.py:182} INFO - Started process (PID=1728) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:25:12,312] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:25:12,314] {logging_mixin.py:104} INFO - [2021-12-10 16:25:12,314] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:25:12,376] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:25:13,232] {logging_mixin.py:104} INFO - [2021-12-10 16:25:13,231] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:25:13,257] {logging_mixin.py:104} INFO - [2021-12-10 16:25:13,257] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:25:13,341] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 1.043 seconds
+[2021-12-10 16:26:00,346] {scheduler_job.py:182} INFO - Started process (PID=1913) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:26:00,354] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:26:00,356] {logging_mixin.py:104} INFO - [2021-12-10 16:26:00,356] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:26:00,444] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:26:01,598] {logging_mixin.py:104} INFO - [2021-12-10 16:26:01,598] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:26:01,628] {logging_mixin.py:104} INFO - [2021-12-10 16:26:01,628] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:26:01,667] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 1.327 seconds
+[2021-12-10 16:26:49,823] {scheduler_job.py:182} INFO - Started process (PID=2126) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:26:49,841] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:26:49,843] {logging_mixin.py:104} INFO - [2021-12-10 16:26:49,843] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:26:50,114] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:26:52,222] {logging_mixin.py:104} INFO - [2021-12-10 16:26:52,221] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:26:52,280] {logging_mixin.py:104} INFO - [2021-12-10 16:26:52,280] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:26:52,454] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 2.649 seconds
+[2021-12-10 16:27:44,594] {scheduler_job.py:182} INFO - Started process (PID=2289) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:27:44,597] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:27:44,599] {logging_mixin.py:104} INFO - [2021-12-10 16:27:44,599] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:27:44,841] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:27:45,855] {logging_mixin.py:104} INFO - [2021-12-10 16:27:45,854] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:27:45,893] {logging_mixin.py:104} INFO - [2021-12-10 16:27:45,893] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:27:45,991] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 1.414 seconds
+[2021-12-10 16:28:31,683] {scheduler_job.py:182} INFO - Started process (PID=2563) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:28:31,685] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:28:31,686] {logging_mixin.py:104} INFO - [2021-12-10 16:28:31,686] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:28:31,733] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:28:32,475] {logging_mixin.py:104} INFO - [2021-12-10 16:28:32,474] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:28:32,503] {logging_mixin.py:104} INFO - [2021-12-10 16:28:32,503] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:28:32,583] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.905 seconds
+[2021-12-10 16:29:26,620] {scheduler_job.py:182} INFO - Started process (PID=2642) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:29:26,633] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:29:26,635] {logging_mixin.py:104} INFO - [2021-12-10 16:29:26,635] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:29:26,767] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:29:27,326] {logging_mixin.py:104} INFO - [2021-12-10 16:29:27,326] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:29:27,350] {logging_mixin.py:104} INFO - [2021-12-10 16:29:27,350] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:29:27,381] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.780 seconds
+[2021-12-10 16:30:10,564] {scheduler_job.py:182} INFO - Started process (PID=2674) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:30:10,567] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:30:10,575] {logging_mixin.py:104} INFO - [2021-12-10 16:30:10,575] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:30:10,648] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:30:10,695] {logging_mixin.py:104} INFO - [2021-12-10 16:30:10,695] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:30:10,741] {logging_mixin.py:104} INFO - [2021-12-10 16:30:10,740] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:30:10,772] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.213 seconds
+[2021-12-10 16:31:05,159] {scheduler_job.py:182} INFO - Started process (PID=2860) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:31:05,165] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:31:05,184] {logging_mixin.py:104} INFO - [2021-12-10 16:31:05,183] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:31:05,300] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:31:06,117] {logging_mixin.py:104} INFO - [2021-12-10 16:31:06,117] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:31:06,159] {logging_mixin.py:104} INFO - [2021-12-10 16:31:06,159] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:31:06,240] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 1.087 seconds
+[2021-12-10 16:31:50,765] {scheduler_job.py:182} INFO - Started process (PID=3010) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:31:50,770] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:31:50,774] {logging_mixin.py:104} INFO - [2021-12-10 16:31:50,774] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:31:50,828] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:31:51,503] {logging_mixin.py:104} INFO - [2021-12-10 16:31:51,503] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:31:51,533] {logging_mixin.py:104} INFO - [2021-12-10 16:31:51,533] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:31:51,569] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.809 seconds
+[2021-12-10 16:32:28,796] {scheduler_job.py:182} INFO - Started process (PID=3067) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:32:28,798] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:32:28,801] {logging_mixin.py:104} INFO - [2021-12-10 16:32:28,800] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:32:28,843] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:32:29,705] {logging_mixin.py:104} INFO - [2021-12-10 16:32:29,705] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:32:29,743] {logging_mixin.py:104} INFO - [2021-12-10 16:32:29,743] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:32:29,896] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 1.105 seconds
+[2021-12-10 16:34:00,548] {scheduler_job.py:182} INFO - Started process (PID=3778) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:34:00,562] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:34:00,565] {logging_mixin.py:104} INFO - [2021-12-10 16:34:00,564] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:34:00,923] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:34:02,299] {logging_mixin.py:104} INFO - [2021-12-10 16:34:02,298] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:34:02,325] {logging_mixin.py:104} INFO - [2021-12-10 16:34:02,324] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:34:02,498] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 1.983 seconds
+[2021-12-10 16:34:45,036] {scheduler_job.py:182} INFO - Started process (PID=3813) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:34:45,038] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:34:45,040] {logging_mixin.py:104} INFO - [2021-12-10 16:34:45,040] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:34:45,088] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:34:45,429] {logging_mixin.py:104} INFO - [2021-12-10 16:34:45,428] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:34:45,442] {logging_mixin.py:104} INFO - [2021-12-10 16:34:45,442] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:34:45,464] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.433 seconds
+[2021-12-10 16:35:22,367] {scheduler_job.py:182} INFO - Started process (PID=3847) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:35:22,373] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:35:22,375] {logging_mixin.py:104} INFO - [2021-12-10 16:35:22,375] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:35:22,475] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:35:23,207] {logging_mixin.py:104} INFO - [2021-12-10 16:35:23,207] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:35:23,239] {logging_mixin.py:104} INFO - [2021-12-10 16:35:23,239] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:35:23,276] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.919 seconds
+[2021-12-10 16:36:12,866] {scheduler_job.py:182} INFO - Started process (PID=3880) to work on /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:36:12,869] {scheduler_job.py:633} INFO - Processing file /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2021-12-10 16:36:12,871] {logging_mixin.py:104} INFO - [2021-12-10 16:36:12,870] {dagbag.py:487} INFO - Filling up the DagBag from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:36:12,987] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2021-12-10 16:36:14,878] {logging_mixin.py:104} INFO - [2021-12-10 16:36:14,878] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-12-10 16:36:14,958] {logging_mixin.py:104} INFO - [2021-12-10 16:36:14,957] {dag.py:2305} INFO - Setting next_dagrun for example_task_group_decorator to 2021-12-08 00:00:00+00:00
+[2021-12-10 16:36:15,315] {scheduler_job.py:190} INFO - Processing /home/agalli/sandbox/lib/python3.6/site-packages/airflow/example_dags/example_task_group_decorator.py took 2.463 seconds
