@@ -1,1 +1,7 @@
 logs/*
+dags/__pycache__
+dags/sub_dags/__pycache__
+airflow-webserver.pid
+.vscode/*
+reqirements.txt
+airflow-worker.pid
