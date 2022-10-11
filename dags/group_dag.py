@@ -1,8 +1,8 @@
 from airflow import DAG
 from airflow.operators.bash import BashOperator
-from airflow.operators.subdag import SubDagOperator
-from sub_dags.subdag_downloads import subdag_downloads
-from sub_dags.subdag_transforms import subdag_transform
+from groups.group_downloads import downloads_tasks
+from groups.group_transforms import transform_tasks
+
 
 from datetime import datetime
 
@@ -19,16 +19,13 @@ with DAG(
         "catchup": dag.catchup,
     }
 
-    downloads = SubDagOperator(
-        task_id='downloads', 
-        subdag=subdag_downloads(dag.dag_id, 'downloads', args))
+    downloads = downloads_tasks()
 
     check_files = BashOperator(
         task_id="check_files", 
         bash_command="sleep 10")
 
-    transform = SubDagOperator(task_id = 'transform',
-        subdag=subdag_transform(dag.dag_id, 'transform', args))
+    transform = transform_tasks()
 
     (
         downloads >> check_files >> transform

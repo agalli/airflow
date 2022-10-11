@@ -1,12 +1,8 @@
-from airflow import DAG
 from airflow.operators.bash import BashOperator
+from airflow.utils.task_group import TaskGroup
 
-def subdag_transform(partent_dag_id, child_dag_id, args):
-    with DAG(f"{partent_dag_id}.{child_dag_id}",
-        start_date = args['start_date'],
-        schedule_interval=args['schedule_interval'], 
-        catchup=args['catchup']) as dag:
-
+def transform_tasks():
+    with TaskGroup("transforms", tooltip="transform tasks") as group:
             transform_a = BashOperator(
                 task_id="transform_a",
                 bash_command="sleep 10")
@@ -19,4 +15,4 @@ def subdag_transform(partent_dag_id, child_dag_id, args):
                 task_id="transform_c", 
                 bash_command="sleep 10")
 
-            return dag
+            return group
